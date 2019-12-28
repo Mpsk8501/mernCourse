@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Mpak:Larisa01@cluster0-hxakm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "testProjectMpak8501",
+  "baseUrl": "http://localhost:5000"
+}
